@@ -18,4 +18,4 @@ For example, if `someArray` contained 100 names, then using `someArray.random(5)
 
 ## License
 
-I don’t think anything this trivial deserves a license: please use it however you want, with or without attribution, with our without changes from you, with or without distributing your changed code, and commercially or non-commercially.
+I don’t think anything this trivial deserves a license: please use it however you want, with or without attribution, with or without changes from you, with or without distributing your changed code, and commercially or non-commercially.
